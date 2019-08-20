@@ -1,0 +1,15 @@
+.header-wrap{
+    width: 100%;
+    background-color: #dadada;
+    padding: 10px;
+}
+.member-list-wrapper{
+    width: 100%;
+}
+table {
+    width: 100%;
+  }
+
+.add-member-table{
+    margin-top: 20px;
+}

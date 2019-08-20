@@ -1,0 +1,25 @@
+.add-title{
+ background-color: lightgray;
+ padding:0.5em;
+}
+.add-title h2{
+    font-size:1.5em; 
+    margin-bottom: 0px;   
+}
+
+::ng-deep .mat-dialog-container{
+ padding: 10px;
+}
+
+::ng-deep .mat-grid-tile  ::ng-deep .mat-figure{
+    justify-content: flex-start !important;
+}
+
+::ng-deep .mat-form-field-infix, 
+::ng-deep .mat-form-field{
+    width: 250px !important;
+}
+
+.member-form-modal{
+    padding: 1em 2em 2em;
+}
